@@ -46,6 +46,8 @@ The master branch supports Tensorflow from version 1.4 to 1.14. For Tensorflow 2
 - Clone the repo and cd into it:
     ```bash
     git clone https://github.com/openai/baselines.git
+    or
+    git clone https://github.com/RyanRizzo96/baselines.git
     cd baselines
     ```
 - If you don't have TensorFlow installed already, install your favourite flavor of TensorFlow. In most cases, 
