@@ -1,4 +1,4 @@
-from collections import OrderedDict
+from collections import OrderedDict  #tf2
 
 import numpy as np
 import tensorflow as tf
